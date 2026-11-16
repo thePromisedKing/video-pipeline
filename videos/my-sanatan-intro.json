@@ -1,0 +1,61 @@
+{
+  "format": "vertical",
+  "background": "mysanatan/darbar.jpg",
+  "theme": {
+    "bg": "#15100E",
+    "fg": "#F2E7DF",
+    "accent": "#D6A84B",
+    "muted": "#D8C7BD",
+    "accent2": "#E0503D"
+  },
+  "beats": [
+    {
+      "type": "hook",
+      "headline": "We become what we keep looking at.",
+      "subtext": "So what are we looking at, for hours every day?",
+      "narration": "We become what we keep looking at. So what are we looking at, for hours every day?"
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते ।",
+        "सङ्गात्संजायते कामः कामात्क्रोधोऽभिजायते ॥"
+      ],
+      "translit": "dhyāyato viṣayānpuṃsaḥ saṅgasteṣūpajāyate",
+      "ref": "Bhagavad Gītā 2.62",
+      "durationSecs": 8,
+      "narration": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते । सङ्गात्संजायते कामः कामात्क्रोधोऽभिजायते ॥"
+    },
+    {
+      "type": "text",
+      "headline": "What we dwell on, we cling to.",
+      "subtext": "“Dwelling on sense-objects, a person grows attached to them.”",
+      "narration": "Krishna told Arjuna: dwelling on sense-objects, a person grows attached to them."
+    },
+    {
+      "type": "text",
+      "headline": "Today our phone proves him right.",
+      "subtext": "Every time you open it: reels, or Rama?",
+      "narration": "Today, our phones prove him right. Every time you open yours, what do you choose? Reels, or Rama?"
+    },
+    {
+      "type": "text",
+      "headline": "Change what you scroll.",
+      "subtext": "The Ramayana and the Bhagavad Gita, one shloka at a time, with its meaning.",
+      "narration": "Change what you scroll. The Ramayana and the Bhagavad Gita, one shloka at a time, with its meaning, in English and Hindi."
+    },
+    {
+      "type": "text",
+      "headline": "Krishna didn't ask for hours.",
+      "subtext": "Pick a time. A daily verse will be waiting.",
+      "narration": "Krishna didn't ask for hours. Even a little each day is enough. Pick a time, and a daily verse will be waiting for you."
+    },
+    {
+      "type": "cta",
+      "headline": "My Sanatan",
+      "subtext": "We give reels hours every day. Give Bhagavan a few minutes.",
+      "durationSecs": 4,
+      "narration": "My Sanatan. We give reels hours every day. Give Bhagavan a few minutes."
+    }
+  ]
+}

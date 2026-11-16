@@ -1,0 +1,32 @@
+{
+  "format": "vertical",
+  "beats": [
+    {
+      "type": "hook",
+      "headline": "Do your work. Let go of the result.",
+      "subtext": "Krishna's most quoted teaching",
+      "narration": "Krishna's most famous teaching is just four lines long."
+    },
+    {
+      "type": "verse",
+      "lines": ["कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।", "मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥"],
+      "translit": "karmaṇy-evādhikāras te mā phaleṣu kadācana",
+      "ref": "Bhagavad Gītā 2.47",
+      "durationSecs": 8,
+      "narration": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन । मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥"
+    },
+    {
+      "type": "text",
+      "headline": "Your right is to the action alone.",
+      "subtext": "Never to its fruits. Don't act for the reward, and don't cling to inaction.",
+      "narration": "You have a right to your actions, but never to their fruits. Don't act for the reward, and don't cling to doing nothing."
+    },
+    {
+      "type": "cta",
+      "headline": "A verse a day.",
+      "subtext": "Read the Gītā and Rāmāyaṇa on The Scroll",
+      "narration": "Read a verse a day on The Scroll.",
+      "durationSecs": 3
+    }
+  ]
+}
